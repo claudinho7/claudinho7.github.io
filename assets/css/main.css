@@ -21,7 +21,6 @@ section, summary, time, mark, audio, video {
 	margin: 0;
 	padding: 0;
 	border: 0;
-	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;}
 
@@ -42,7 +41,6 @@ blockquote, q {
 }
 
 	blockquote:before, blockquote:after, q:before, q:after {
-		content: '';
 		content: none;
 	}
 
@@ -379,19 +377,19 @@ input, select, textarea {
 
 		.row.gtr-0 {
 			margin-top: 0;
-			margin-left: 0em;
+			margin-left: 0;
 		}
 
 			.row.gtr-0 > * {
-				padding: 0 0 0 0em;
+				padding: 0 0 0 0;
 			}
 
 			.row.gtr-0.gtr-uniform {
-				margin-top: 0em;
+				margin-top: 0;
 			}
 
 				.row.gtr-0.gtr-uniform > * {
-					padding-top: 0em;
+					padding-top: 0;
 				}
 
 		.row.gtr-25 {
@@ -622,19 +620,19 @@ input, select, textarea {
 
 				.row.gtr-0 {
 					margin-top: 0;
-					margin-left: 0em;
+					margin-left: 0;
 				}
 
 					.row.gtr-0 > * {
-						padding: 0 0 0 0em;
+						padding: 0 0 0 0;
 					}
 
 					.row.gtr-0.gtr-uniform {
-						margin-top: 0em;
+						margin-top: 0;
 					}
 
 						.row.gtr-0.gtr-uniform > * {
-							padding-top: 0em;
+							padding-top: 0;
 						}
 
 				.row.gtr-25 {
@@ -867,19 +865,19 @@ input, select, textarea {
 
 				.row.gtr-0 {
 					margin-top: 0;
-					margin-left: 0em;
+					margin-left: 0;
 				}
 
 					.row.gtr-0 > * {
-						padding: 0 0 0 0em;
+						padding: 0 0 0 0;
 					}
 
 					.row.gtr-0.gtr-uniform {
-						margin-top: 0em;
+						margin-top: 0;
 					}
 
 						.row.gtr-0.gtr-uniform > * {
-							padding-top: 0em;
+							padding-top: 0;
 						}
 
 				.row.gtr-25 {
@@ -1112,19 +1110,19 @@ input, select, textarea {
 
 				.row.gtr-0 {
 					margin-top: 0;
-					margin-left: 0em;
+					margin-left: 0;
 				}
 
 					.row.gtr-0 > * {
-						padding: 0 0 0 0em;
+						padding: 0 0 0 0;
 					}
 
 					.row.gtr-0.gtr-uniform {
-						margin-top: 0em;
+						margin-top: 0;
 					}
 
 						.row.gtr-0.gtr-uniform > * {
-							padding-top: 0em;
+							padding-top: 0;
 						}
 
 				.row.gtr-25 {
@@ -1357,19 +1355,19 @@ input, select, textarea {
 
 				.row.gtr-0 {
 					margin-top: 0;
-					margin-left: 0em;
+					margin-left: 0;
 				}
 
 					.row.gtr-0 > * {
-						padding: 0 0 0 0em;
+						padding: 0 0 0 0;
 					}
 
 					.row.gtr-0.gtr-uniform {
-						margin-top: 0em;
+						margin-top: 0;
 					}
 
 						.row.gtr-0.gtr-uniform > * {
-							padding-top: 0em;
+							padding-top: 0;
 						}
 
 				.row.gtr-25 {
@@ -1602,19 +1600,19 @@ input, select, textarea {
 
 				.row.gtr-0 {
 					margin-top: 0;
-					margin-left: 0em;
+					margin-left: 0;
 				}
 
 					.row.gtr-0 > * {
-						padding: 0 0 0 0em;
+						padding: 0 0 0 0;
 					}
 
 					.row.gtr-0.gtr-uniform {
-						margin-top: 0em;
+						margin-top: 0;
 					}
 
 						.row.gtr-0.gtr-uniform > * {
-							padding-top: 0em;
+							padding-top: 0;
 						}
 
 				.row.gtr-25 {
@@ -1825,7 +1823,6 @@ input, select, textarea {
 		-ms-appearance: none;
 		appearance: none;
 		border-radius: 5px;
-		border: none;
 		border: solid 2px #e4e4e4;
 		color: inherit;
 		display: block;
@@ -1922,7 +1919,7 @@ input, select, textarea {
 				text-rendering: auto;
 				line-height: 1;
 				text-transform: none !important;
-				font-family: 'Font Awesome 5 Free';
+				font-family: 'Font Awesome 5 Free', serif;
 				font-weight: 900;
 			}
 
@@ -2026,7 +2023,7 @@ input, select, textarea {
 			text-rendering: auto;
 			line-height: 1;
 			text-transform: none !important;
-			font-family: 'Font Awesome 5 Free';
+			font-family: 'Font Awesome 5 Free', serif;
 			font-weight: 400;
 		}
 
@@ -2043,7 +2040,7 @@ input, select, textarea {
 		}
 
 		.icon.brands:before {
-			font-family: 'Font Awesome 5 Brands';
+			font-family: 'Font Awesome 5 Brands', serif;
 		}
 
 /* Image */
@@ -2397,7 +2394,7 @@ input, select, textarea {
 				text-rendering: auto;
 				line-height: 1;
 				text-transform: none !important;
-				font-family: 'Font Awesome 5 Free';
+				font-family: 'Font Awesome 5 Free', serif;
 				font-weight: 400;
 			}
 
@@ -3071,7 +3068,7 @@ input, select, textarea {
 						text-rendering: auto;
 						line-height: 1;
 						text-transform: none !important;
-						font-family: 'Font Awesome 5 Free';
+						font-family: 'Font Awesome 5 Free', serif;
 						font-weight: 900;
 					}
 
