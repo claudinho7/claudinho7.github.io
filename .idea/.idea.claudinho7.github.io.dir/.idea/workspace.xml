@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1959c98a-ccef-402e-9a9d-30f530a2d258" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/css/swiper-bundle.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/swiper-bundle.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pages/Project1-Kombat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pages/Project2-Warehouse.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pages/Project3-Nightmares.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pages/Project4-AStar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pages/Project5-K9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.claudinho7.github.io.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.claudinho7.github.io.dir/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +54,8 @@
       <updated>1684259862450</updated>
       <workItem from="1684259865299" duration="8489000" />
       <workItem from="1684325899181" duration="24137000" />
+      <workItem from="1684353210681" duration="420000" />
+      <workItem from="1684359346686" duration="2361000" />
     </task>
     <servers />
   </component>
