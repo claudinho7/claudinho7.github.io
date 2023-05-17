@@ -2900,7 +2900,7 @@ input, select, textarea {
 		/* Main */
 
 			#main > section > .container {
-				padding: 4em 0 2em 0;
+				padding: 2em 0 2em 0;
 			}
 
 	}
@@ -3311,3 +3311,79 @@ input, select, textarea {
 			}
 
 	}
+
+
+/* Carousel*/
+.testimonial {
+	background: #4acaa8;
+	position: relative;
+	padding: 1em 0;
+	overflow: hidden;
+}
+.testimonial .image {
+	height: 9em;
+	width: 9em;
+	object-fit: cover;
+	border-radius: 50%;
+}
+.testimonial .slide {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	height: 100%;
+	width: 100%;
+}
+.slide p {
+	text-align: center;
+	padding: 0.5em 4em;
+	color: white;
+}
+.slide .quote-icon {
+	font-size: 1em;
+	color: #333;
+}
+.slide .details {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.details .name {
+	font-size: 1.7em;
+	font-weight: 700;
+	color: white;
+}
+.details .job {
+	font-size: 1em;
+	font-weight: 400;
+	color: #333;
+}
+/* swiper button css */
+.nav-btn {
+	height: 2.5em;
+	width: 2.5em;
+	background-color: rgba(0, 0, 0, 0.1);
+	transition: 0.2s;
+}
+.nav-btn:hover {
+	background-color: rgba(0, 0, 0, 0.2);
+}
+.nav-btn::after,
+.nav-btn::before {
+	font-size: 20px;
+	color: #fff;
+}
+.swiper-pagination-bullet {
+	background-color: rgba(0, 0, 0, 0.5);
+}
+.swiper-pagination-bullet-active {
+	background-color: black;
+}
+@media screen and (max-width: 768px) {
+	.slide p {
+		padding: 0 20px;
+	}
+	.nav-btn {
+		display: none;
+	}
+}

@@ -6,12 +6,12 @@
 
 (function($) {
 
+	$('#wrapper');
 	var $window = $(window),
 		$body = $('body'),
 		$header = $('#header'),
 		$titleBar = null,
-		$nav = $('#nav'),
-		$wrapper = $('#wrapper');
+		$nav = $('#nav');
 
 	// Breakpoints.
 		breakpoints({
@@ -66,7 +66,7 @@
 					var $this = $(this);
 
 					// External link? Bail.
-						if ($this.attr('href').charAt(0) != '#')
+						if ($this.attr('href').charAt(0) !== '#')
 							return;
 
 					// Deactivate all links.
@@ -105,7 +105,7 @@
 									$section.removeClass('inactive');
 
 								// No locked links? Deactivate all links and activate this section's one.
-									if ($nav_a.filter('.active-locked').length == 0) {
+									if ($nav_a.filter('.active-locked').length === 0) {
 
 										$nav_a.removeClass('active');
 										$this.addClass('active');
@@ -155,5 +155,20 @@
 
 			}
 		});
-
+	
 })(jQuery);
+
+//carrousel
+var swiper = new Swiper(".mySwiper", {
+	slidesPerView: 1,
+	grabCursor: true,
+	loop: true,
+	pagination: {
+		el: ".swiper-pagination",
+		clickable: true,
+	},
+	navigation: {
+		nextEl: ".swiper-button-next",
+		prevEl: ".swiper-button-prev",
+	},
+});
