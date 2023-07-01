@@ -2,26 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1959c98a-ccef-402e-9a9d-30f530a2d258" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Project0-RR.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project1-DeadlySpace.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2-MultiplayerShooter.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project3-Kombat.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project4-Warehouse.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project5-Nightmares.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project6-AStar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project7-K9.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/K9/71.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/K9/72.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/K9/73.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/K9/74.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/K9/76.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/K9/77.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/AStar/60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/AStar/61.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/AStar/62.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.claudinho7.github.io.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.claudinho7.github.io.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project1-Kombat.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project2-Warehouse.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project3-Nightmares.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project4-AStar.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project5-K9.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project0-RR.html" beforeDir="false" afterPath="$PROJECT_DIR$/Project0-RR.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project1-DeadlySpace.html" beforeDir="false" afterPath="$PROJECT_DIR$/Project1-DeadlySpace.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project2-MultiplayerShooter.html" beforeDir="false" afterPath="$PROJECT_DIR$/Project2-SnowballShooter.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project3-Kombat.html" beforeDir="false" afterPath="$PROJECT_DIR$/Project3-Kombat.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project5-Nightmares.html" beforeDir="false" afterPath="$PROJECT_DIR$/Project5-Nightmares.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project6-AStar.html" beforeDir="false" afterPath="$PROJECT_DIR$/Project6-AStar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project7-K9.html" beforeDir="false" afterPath="$PROJECT_DIR$/Project7-K9.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +49,16 @@
     ]
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/claudinho7.github.io/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -73,6 +74,7 @@
       <workItem from="1685026710522" duration="1768000" />
       <workItem from="1685032823230" duration="7634000" />
       <workItem from="1688206900259" duration="10261000" />
+      <workItem from="1688225613443" duration="4936000" />
     </task>
     <servers />
   </component>
