@@ -2,31 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1959c98a-ccef-402e-9a9d-30f530a2d258" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Project1a-Platformer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/DeadlySpace/11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/DeadlySpace/12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/DeadlySpace/13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/DeadlySpace/14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Kombat/31.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Kombat/32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Kombat/33.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Kombat/34.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Platformer/1a1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Platformer/1a2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Platformer/1a3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Platformer/1a4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Platformer/1a5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Warehouse/41.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Warehouse/42.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Warehouse/43.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.claudinho7.github.io.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.claudinho7.github.io.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project0-RR.html" beforeDir="false" afterPath="$PROJECT_DIR$/Project0-RR.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project1-DeadlySpace.html" beforeDir="false" afterPath="$PROJECT_DIR$/Project1-DeadlySpace.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project2-SnowballShooter.html" beforeDir="false" afterPath="$PROJECT_DIR$/Project2-SnowballShooter.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project3-Kombat.html" beforeDir="false" afterPath="$PROJECT_DIR$/Project3-Kombat.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project4-Warehouse.html" beforeDir="false" afterPath="$PROJECT_DIR$/Project4-Warehouse.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/profile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/profile.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,6 +65,7 @@
       <workItem from="1688206900259" duration="10261000" />
       <workItem from="1688225613443" duration="5579000" />
       <workItem from="1692901888977" duration="12064000" />
+      <workItem from="1695653004446" duration="351000" />
     </task>
     <servers />
   </component>
