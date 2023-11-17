@@ -2,6 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1959c98a-ccef-402e-9a9d-30f530a2d258" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/images/man-neon-suit-sits-chair-with-neon-sign-that-says-word-it.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.claudinho7.github.io.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.claudinho7.github.io.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project0-RR.html" beforeDir="false" afterPath="$PROJECT_DIR$/Project0-RR.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project1-DeadlySpace.html" beforeDir="false" afterPath="$PROJECT_DIR$/Project1-DeadlySpace.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project1a-Platformer.html" beforeDir="false" afterPath="$PROJECT_DIR$/Project1a-Platformer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project2-SnowballShooter.html" beforeDir="false" afterPath="$PROJECT_DIR$/Project2-SnowballShooter.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project3-Kombat.html" beforeDir="false" afterPath="$PROJECT_DIR$/Project3-Kombat.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project4-Warehouse.html" beforeDir="false" afterPath="$PROJECT_DIR$/Project4-Warehouse.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project5-Nightmares.html" beforeDir="false" afterPath="$PROJECT_DIR$/Project5-Nightmares.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project6-AStar.html" beforeDir="false" afterPath="$PROJECT_DIR$/Project6-AStar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project7-K9.html" beforeDir="false" afterPath="$PROJECT_DIR$/Project7-K9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/CV.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/CV.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/header.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +79,8 @@
       <workItem from="1688206900259" duration="10261000" />
       <workItem from="1688225613443" duration="5579000" />
       <workItem from="1692901888977" duration="12064000" />
-      <workItem from="1695653004446" duration="351000" />
+      <workItem from="1695653004446" duration="955000" />
+      <workItem from="1700232324423" duration="7102000" />
     </task>
     <servers />
   </component>
