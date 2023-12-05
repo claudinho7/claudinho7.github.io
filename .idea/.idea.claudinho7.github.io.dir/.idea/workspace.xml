@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1959c98a-ccef-402e-9a9d-30f530a2d258" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Project8-BSLH.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/BSLH/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/BSLH/10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/BSLH/11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/BSLH/17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/BSLH/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/BSLH/20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/BSLH/21.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/BSLH/22.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/BSLH/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/BSLH/8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/BSLH/9.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.claudinho7.github.io.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.claudinho7.github.io.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project0-RR.html" beforeDir="false" afterPath="$PROJECT_DIR$/Project0-RR.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project7-K9.html" beforeDir="false" afterPath="$PROJECT_DIR$/Project7-K9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +68,7 @@
       <workItem from="1695653004446" duration="955000" />
       <workItem from="1700232324423" duration="7102000" />
       <workItem from="1701804375597" duration="2941000" />
+      <workItem from="1701807661003" duration="139000" />
     </task>
     <servers />
   </component>
