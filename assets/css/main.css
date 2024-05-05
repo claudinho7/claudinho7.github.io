@@ -3312,8 +3312,13 @@ input, select, textarea {
 
 	}
 
+/* PDF Reader */
+.pdf{
+	width: 100%;
+	aspect-ratio: 4 / 3;
+}
 
-/* Carousel*/
+/* Carousel */
 .testimonial {
 	background: #4acaa8;
 	position: relative;
