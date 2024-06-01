@@ -2,33 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1959c98a-ccef-402e-9a9d-30f530a2d258" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/images/BSLH/bs1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/BSLH/bs10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/BSLH/bs11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/BSLH/bs2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/BSLH/bs3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/BSLH/bs4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/BSLH/bs5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/BSLH/bs6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/BSLH/bs7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/BSLH/bs8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/BSLH/bs9.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.claudinho7.github.io.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.claudinho7.github.io.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project1-DeadlySpace.html" beforeDir="false" afterPath="$PROJECT_DIR$/Project1-DeadlySpace.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project2-Kombat.html" beforeDir="false" afterPath="$PROJECT_DIR$/Project2-Kombat.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project3-AStar.html" beforeDir="false" afterPath="$PROJECT_DIR$/Project3-AStar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project4-K9.html" beforeDir="false" afterPath="$PROJECT_DIR$/Project4-K9.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project5-Dissertation.html" beforeDir="false" afterPath="$PROJECT_DIR$/Project5-Dissertation.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project6-BSLH.html" beforeDir="false" afterPath="$PROJECT_DIR$/Project6-BSLH.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/BSLH/10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/BSLH/11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/BSLH/17.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/BSLH/20.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/BSLH/21.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/BSLH/22.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/BSLH/8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/BSLH/9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,6 +72,7 @@
       <workItem from="1706644921403" duration="23000" />
       <workItem from="1714918542634" duration="6390000" />
       <workItem from="1715009494181" duration="11314000" />
+      <workItem from="1717241922425" duration="125000" />
     </task>
     <servers />
   </component>
