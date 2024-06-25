@@ -2,14 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1959c98a-ccef-402e-9a9d-30f530a2d258" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/Claudiu.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project1-DeadlySpace.html" beforeDir="false" afterPath="$PROJECT_DIR$/Project1-DeadlySpace.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project2-Kombat.html" beforeDir="false" afterPath="$PROJECT_DIR$/Project2-Kombat.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project3-AStar.html" beforeDir="false" afterPath="$PROJECT_DIR$/Project3-AStar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project4-K9.html" beforeDir="false" afterPath="$PROJECT_DIR$/Project4-K9.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project5-Dissertation.html" beforeDir="false" afterPath="$PROJECT_DIR$/Project5-Dissertation.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project6-BSLH.html" beforeDir="false" afterPath="$PROJECT_DIR$/Project6-BSLH.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/CV.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,6 +74,7 @@
       <workItem from="1715009494181" duration="11314000" />
       <workItem from="1717241922425" duration="125000" />
       <workItem from="1718291204648" duration="98000" />
+      <workItem from="1719340163482" duration="304000" />
     </task>
     <servers />
   </component>
