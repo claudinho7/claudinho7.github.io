@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1959c98a-ccef-402e-9a9d-30f530a2d258" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.claudinho7.github.io.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.claudinho7.github.io.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Claudiu.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Claudiu.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="1959c98a-ccef-402e-9a9d-30f530a2d258" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,7 +73,7 @@
       <workItem from="1717241922425" duration="125000" />
       <workItem from="1718291204648" duration="98000" />
       <workItem from="1719340163482" duration="304000" />
-      <workItem from="1719843375222" duration="1519000" />
+      <workItem from="1719843375222" duration="1896000" />
     </task>
     <servers />
   </component>
